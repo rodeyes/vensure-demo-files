@@ -1,1 +1,18 @@
-
+{
+  "folder": "Vensure Demo Files",
+  "notice": "All files and data are synthetic and intended exclusively for demonstration purposes.",
+  "files": [
+    {
+      "id": "demo-001",
+      "name": "employee_reconciliation_2026-06.xlsx",
+      "fileType": "xlsx",
+      "period": "2026-06",
+      "modifiedDate": "2026-07-02",
+      "status": "Available",
+      "source": "Payroll",
+      "observation": "Synthetic employee payroll reconciliation file for demonstration.",
+      "downloadUrl": "https://rodeyes.github.io/vensure-demo-files/files/employee_reconciliation_2026-06.xlsx",
+      "dataUrl": "https://rodeyes.github.io/vensure-demo-files/data/demo-001.json"
+    }
+  ]
+}
