@@ -1,0 +1,98 @@
+{
+  "fileId": "demo-001",
+  "fileName": "employee_reconciliation_2026-06.xlsx",
+  "currency": "USD",
+  "recordCount": 10,
+  "records": [
+    {
+      "recordId": "EMP-001",
+      "employeeId": "E-1001",
+      "department": "Operations",
+      "source1Amount": 4200,
+      "source2Amount": 4200,
+      "difference": 0,
+      "status": "Matched"
+    },
+    {
+      "recordId": "EMP-002",
+      "employeeId": "E-1002",
+      "department": "Finance",
+      "source1Amount": 3850,
+      "source2Amount": 3800,
+      "difference": 50,
+      "status": "Requires validation"
+    },
+    {
+      "recordId": "EMP-003",
+      "employeeId": "E-1003",
+      "department": "HR",
+      "source1Amount": 5100,
+      "source2Amount": 5000,
+      "difference": 100,
+      "status": "Requires validation"
+    },
+    {
+      "recordId": "EMP-004",
+      "employeeId": "E-1004",
+      "department": "Operations",
+      "source1Amount": 4600,
+      "source2Amount": 4600,
+      "difference": 0,
+      "status": "Matched"
+    },
+    {
+      "recordId": "EMP-005",
+      "employeeId": "E-1005",
+      "department": "Sales",
+      "source1Amount": 6250,
+      "source2Amount": 6175,
+      "difference": 75,
+      "status": "Requires validation"
+    },
+    {
+      "recordId": "EMP-006",
+      "employeeId": "E-1006",
+      "department": "Technology",
+      "source1Amount": 3900,
+      "source2Amount": 3900,
+      "difference": 0,
+      "status": "Matched"
+    },
+    {
+      "recordId": "EMP-007",
+      "employeeId": "E-1007",
+      "department": "Finance",
+      "source1Amount": 5400,
+      "source2Amount": 5350,
+      "difference": 50,
+      "status": "Requires validation"
+    },
+    {
+      "recordId": "EMP-008",
+      "employeeId": "E-1008",
+      "department": "Technology",
+      "source1Amount": 7100,
+      "source2Amount": 7100,
+      "difference": 0,
+      "status": "Matched"
+    },
+    {
+      "recordId": "EMP-009",
+      "employeeId": "E-1009",
+      "department": "Sales",
+      "source1Amount": 4800,
+      "source2Amount": 4675,
+      "difference": 125,
+      "status": "Requires validation"
+    },
+    {
+      "recordId": "EMP-010",
+      "employeeId": "E-1010",
+      "department": "HR",
+      "source1Amount": 4450,
+      "source2Amount": 4450,
+      "difference": 0,
+      "status": "Matched"
+    }
+  ]
+}
